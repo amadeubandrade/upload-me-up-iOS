@@ -1,0 +1,6 @@
+framework module Pods_social_network_app {
+  umbrella header "Pods-social-network-app-umbrella.h"
+
+  export *
+  module * { export * }
+}
